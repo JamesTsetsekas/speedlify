@@ -6,9 +6,9 @@ module.exports = {
 		frequency: 1, // (in minutes)
 	},
 	urls: [
-		"https://www.JamesTsetsekas.com/",
-		"https://www.JerseyCityBitcoin.com/",
-		"https://www.JamescoWebDesigns.com/",
-		"https://www.JamescoFlix.com/"
+		"https://JamesTsetsekas.com/",
+		"https://JerseyCityBitcoin.com/",
+		"https://JamescoWebDesigns.com/",
+		"https://JamescoFlix.com/"
 	]
 };
